@@ -10,7 +10,7 @@
 
 - 🔭 Currently working on **Something That Will Change the Future**  
 - 🌱 Learning **Google Cloud Platform & Machine Learning**  
-- 👨‍💻 Check out my projects: [GitHub Portfolio](https://github.com/SHASHANKRAJ21?tab=overview&from=2025-04-01&to=2025-04-24)  
+- 👨‍💻 Check out my projects: [Portfolio](https://my-portfolio-eta-ten-75.vercel.app/)  
 - 💬 Ask me about **Web Development | Cloud | Machine Learning**  
 - 📫 Reach me at **shashank286raj@gmail.com**  
 - 📄 [My Resume](https://drive.google.com/file/d/1V57GZHJO02teb6Ra-x4Yvul7kVMIA6TF/view?usp=sharing)  
